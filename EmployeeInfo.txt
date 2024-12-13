@@ -1,0 +1,4 @@
+Name: Diwas Ghimirey, ID Number: 73147, Department: IT, Job Title: Hardware Specialist
+Name: Rusel Subedi, ID Number: 37178, Department: Financing, Job Title: Finance Manager
+Name: Rojal Gurung, ID Number: 34011, Department: Marketing, Job Title: Vice-President
+Name: Ramesh Bhandari, ID Number: 40174, Department: Marketing, Job Title: President
